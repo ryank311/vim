@@ -158,8 +158,8 @@ Plugin 'hail2u/vim-css3-syntax'
 call vundle#end()            " required for vundle
  
 " start NERDTree on start-up and focus active window
-autocmd VimEnter * NERDTree
-autocmd VimEnter * wincmd p
+" autocmd VimEnter * NERDTree
+" autocmd VimEnter * wincmd p
  
 " map FuzzyFinder
 noremap <leader>b :FufBuffer<cr>
