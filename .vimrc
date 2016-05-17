@@ -5,6 +5,7 @@ set nocompatible
 syntax on
 " and show line numbers
 set number
+set relativenumber
  
 " make vim try to detect file types and load plugins for them
 filetype on
